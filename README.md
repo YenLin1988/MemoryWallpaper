@@ -4,7 +4,7 @@
 
 [下載測試版](https://github.com/YenLin1988/MemoryWallpaper/releases/tag/v0.7.0-beta.1) · [回報問題與建議](https://github.com/YenLin1988/MemoryWallpaper/issues)
 
-**Windows 使用者：** [Windows 11 x64 預覽版下載與限制](WINDOWS.md)。此版尚未 Windows 實機驗證，功能與 Mac 版不同。
+**Windows 使用者：** [Windows x64／x86 預覽版下載與限制](WINDOWS.md)。此版尚未 Windows 實機驗證，功能與 Mac 版不同。
 
 本專案僅提供安裝檔、使用說明與回饋管道，**不公開原始碼**。Release 的「Source code」壓縮檔僅包含本專案的說明文件，請下載 `.dmg` 安裝檔。
 

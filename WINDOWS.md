@@ -2,11 +2,16 @@
 
 [下載 Windows 安裝程式](https://github.com/YenLin1988/MemoryWallpaper/releases/tag/windows-v0.1.0-preview.1)
 
-**Windows 11 · Intel／AMD x64 · 實驗性預覽版，尚未完成 Windows 實機驗證。**
+**提供 Intel／AMD x64 與 x86（32 位元）安裝包。皆為實驗性預覽版，尚未完成 Windows 實機驗證。**
+
+- 一般 64 位元 Windows 11 電腦：選 x64。
+- 需要 32 位元程式：選 x86；已內附 32 位元 .NET 執行環境。
+- x86 不代表支援 Windows 7／8。作業系統需求仍受 [.NET 10 支援範圍](https://learn.microsoft.com/en-us/dotnet/core/install/windows) 限制；32 位元 Windows 的實機相容性未驗證。
+- x86／x64 預設安裝目錄分開，共用 `%LOCALAPPDATA%\MemoryWallpaper` 資料，不能同時執行；切換前請先退出另一版本。
 
 ## 安裝與使用
 
-1. 下載 `MemoryWallpaper-0.1.0-preview.1-Windows-x64-Setup.exe`。
+1. 下載檔名含 `Windows-x64-Setup.exe` 或 `Windows-x86-Setup.exe` 的安裝程式。
 2. 執行安裝程式，完成後從開始功能表開啟 MemoryWallpaper。不需要管理員權限，不需要另裝 .NET。
 3. 按「匯入照片／影片」，先選少量測試素材，再按「播放桌布」。
 4. 按「停止桌布」或關閉主視窗會停止播放。睡眠時也會停止，喚醒後需手動播放。
