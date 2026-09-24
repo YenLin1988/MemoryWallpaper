@@ -6,8 +6,8 @@ title: '[Bug] '
 
 **環境**
 - App 版本：
-- macOS 版本：
-- Mac 晶片（例如 M1）：
+- 作業系統與版本（macOS／Windows）：
+- CPU／晶片（例如 M1、Intel、AMD）：
 - 螢幕數量：
 
 **重現步驟**

@@ -11,3 +11,7 @@
 退出 App 後刪除上述資料夾，可清除本機匯入副本與設定；此操作不可復原，請先備份需要保留的檔案。原始來源照片不會因此刪除。Google 授權可在 Google 帳戶的第三方連結管理頁撤銷。
 
 GitHub Issues 是公開的，請勿提交私人照片、OAuth JSON、帳號憑證或未遮蔽的個人資訊。隱私相關一般問題可在本專案 Issues 提出，勿附敏感資料。
+
+## Windows 預覽版
+
+Windows 0.1 預覽版的本機資料位於 `%LOCALAPPDATA%\MemoryWallpaper`，尚無 Google 匯入。卸載不移除個人素材與設定。詳見 [Windows 說明](WINDOWS.md)。
